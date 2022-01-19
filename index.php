@@ -7,7 +7,7 @@
   $pi = 3.14;
   $age = 20;
   //increment & decrement
-   //$radius--;
+  $radius--;
    //echo $radius;
  //$age  += 10;
  //echo $age;
