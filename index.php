@@ -18,7 +18,7 @@
  //$peopleone = ['John','Esther','Joy'];
  //echo $peopleone[1];
 
- //$peopletwo = array('James','Jane');
+ $peopletwo = array('James','Jane');
  //echo $peopletwo[1];
  $ages=[10,14,19];
  print_r ($ages);
